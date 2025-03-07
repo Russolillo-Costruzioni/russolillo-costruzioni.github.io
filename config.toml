@@ -146,6 +146,8 @@ id = ""
       </p>
       """
 
+[params.features]
+    enable = true
 
 [taxonomies]
   category = "categories"
