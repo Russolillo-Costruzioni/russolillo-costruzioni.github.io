@@ -108,7 +108,11 @@ id = ""
     enableRecaptchaInContactForm = false
     googleRecaptchaKey = "site_key_for_google_recaptcha"
 
-    about_us = "<p></p>"
+    about_us = """<p>La Russolillo Costruzioni è una realtà giovane e dinamica che offre 
+        soluzioni innovative in carpenteria metallica e edile, impianti elettrici, idraulici, 
+        industriali e civili, oltre a infissi in alluminio e PVC. La nostra missione è 
+        fornire progetti di alta qualità, con un'attenzione particolare all'efficienza e alla
+        personalizzazione, sempre orientati alla piena soddisfazione del cliente.</p>"""
     copyright = "Copyright (c) 2025, Russolillo Costruzioni; all rights reserved."
 
     # Format dates with Go's time formatting
