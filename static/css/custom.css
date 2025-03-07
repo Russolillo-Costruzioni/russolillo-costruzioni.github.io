@@ -19,3 +19,14 @@
     --primary-accent: #27308c;
     --navbar-border-top: #192147;
 }
+
+.home-carousel {
+    background: url('../img/cantieri/grand-paraisse.jpg') center center repeat;
+    background-size: cover;
+    text-shadow: 2px 2px 8px black;
+    min-height: 32em;
+}
+
+.home-carousel .dark-mask {
+    opacity: 0.0;
+}
